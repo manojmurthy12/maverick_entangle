@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "409654217710",
+    "project_id": "maverick-entangle",
+    "storage_bucket": "maverick-entangle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409654217710:android:ae91fa5c97a0e423a49cff",
+        "android_client_info": {
+          "package_name": "com.quantumloop.maverick_entangle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409654217710-bmbqjr5a88cpbjcjl0frcnk77hr879i1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC98G14CEWsKx93IaMAJClyWC4O0hK1YaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409654217710-bmbqjr5a88cpbjcjl0frcnk77hr879i1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
